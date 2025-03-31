@@ -25,5 +25,6 @@ Proyek ini bertujuan untuk memodelkan dan memprediksi volatilitas harga saham BB
 3. Terapkan model hybrid lainnya seperti ARIMAX atau LSTM untuk peningkatan akurasi.
 
 ⚙️ Tools yang Digunakan
+
 R (rugarch, forecast, quantmod) untuk analisis dan pemodelan data saham.
 
