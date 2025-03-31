@@ -1,5 +1,6 @@
 # ARIMA-GARCH-Forecasting BBCA STOCK
 📌 Overview
+
 Proyek ini bertujuan untuk memodelkan dan memprediksi volatilitas harga saham BBCA menggunakan pendekatan ARIMA-GARCH. Kombinasi ARIMA untuk menangkap tren harga dan GARCH untuk volatilitas menghasilkan prediksi yang lebih akurat dalam menganalisis pergerakan pasar.
 
 🔍 Insights yang Dihasilkan
